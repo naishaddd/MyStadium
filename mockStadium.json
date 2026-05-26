@@ -1,0 +1,32 @@
+{
+  "locations": [
+    {
+      "id": "gate_a",
+      "name": "Gate A",
+      "type": "entrance",
+      "waitTime": 5,
+      "description": "Main entrance, near parking lot 1"
+    },
+    {
+      "id": "food_court_north",
+      "name": "North Food Court",
+      "type": "food",
+      "waitTime": 12,
+      "description": "Hot dogs, nachos, and beverages"
+    },
+    {
+      "id": "merchandise_store",
+      "name": "Team Merchandise Store",
+      "type": "shop",
+      "waitTime": 8,
+      "description": "Official team gear and souvenirs"
+    },
+    {
+      "id": "restrooms_section_c",
+      "name": "Restrooms – Section C",
+      "type": "restroom",
+      "waitTime": 3,
+      "description": "Nearest restrooms to sections 100–120"
+    }
+  ]
+}
