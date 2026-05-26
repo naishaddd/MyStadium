@@ -59,25 +59,20 @@ The UI uses a warm stadium-themed palette, shared mock venue data, and role-base
 
 ## Screenshots
 
-### Login
-
-![Stadium AI login screen](./ScreenShots/Screenshot_1779624197.png)
-
-### Consumer experience
-
-![Consumer explore and navigation screen](./ScreenShots/Screenshot_1779624205.png)
-
-### Admin operations
-
-![Admin attendance and duty board screen](./ScreenShots/Screenshot_1779625921.png)
-
-### Vendor dashboard
-
-![Vendor zones and queue overview screen](./ScreenShots/Screenshot_1779625927.png)
-
-![Vendor team messages screen](./ScreenShots/Screenshot_1779625923.png)
-
-![Vendor crowd response and operational notes screen](./ScreenShots/Screenshot_1779625933.png)
+<table>
+	<tr>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624197.png" alt="Stadium AI login screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624205.png" alt="Consumer explore and navigation screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624211.png" alt="Consumer content screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624214.png" alt="Consumer profile screen" width="180" /></td>
+	</tr>
+	<tr>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624217.png" alt="Consumer food screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624227.png" alt="Consumer pass screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624243.png" alt="Admin attendance dashboard screen" width="180" /></td>
+		<td align="center"><img src="./ScreenShots/Screenshot_1779624246.png" alt="Admin zone control screen" width="180" /></td>
+	</tr>
+</table>
 
 ## Getting Started
 
